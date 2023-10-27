@@ -84,9 +84,9 @@ div .profile-text {
 
 
 div table {
-  position:relative;
-  margin-top: -20px;
-  background-color: blueviolet;
+  position: absolute;
+
+  margin-top: -30px;
 }
 
 div button {
@@ -103,6 +103,10 @@ div button:hover {
 }
 
 div tr {
-  font-weight: bold;
+  font-size: 1.2rem;
   margin-left: 10px;
+}
+
+div tr td {
+  padding: 6px 12px;
 }
