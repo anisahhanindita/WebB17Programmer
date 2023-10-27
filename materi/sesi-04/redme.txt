@@ -1,0 +1,26 @@
+menghitung nilai tambahan :
+deklarasi 
+	- variabel a : 10
+  - variabel b : 15
+  - variabel hasil : a + b (25)
+  - output
+  
+  
+  
+variabel 
+	- var (diluar scope)
+  - const (gk bisa diubah)
+  - let (didalam scope)
+
+===============================
+
+kita punya nilai makul (mata kuliah) -> matematika = 85
+
+//deklarasi
+var huruf_mutu
+var nilai_matematika
+
+//assign value
+huruf_mutu = "tidak terdefinisikan"
+nilai_mate
+

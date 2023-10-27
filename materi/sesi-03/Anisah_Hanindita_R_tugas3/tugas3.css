@@ -84,9 +84,8 @@ div .profile-text {
 
 
 div table {
-  position:unset;
-  display: flex;
-  margin: 20;
+  position:relative;
+  margin-top: -20px;
   background-color: blueviolet;
 }
 

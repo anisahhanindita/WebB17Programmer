@@ -1,3 +1,17 @@
 Materi CSS
 Pembuatan background dengan CSS
 Penggunaan CSS secara keseluruhan
+
+git token
+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
+
+WebB17Programmer
+
+git config --global user.email "anisahhanindita@gmail.com"
+  git config --global user.name "anisahhanindita"
+
+git add .
+git commit -m "comentar"
+git push
+
+git push -u origin branch
